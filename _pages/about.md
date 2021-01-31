@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m Shankar, a graduate student in Computer Science from [Birmingham City University](https://www.bcu.ac.uk). I’m am currently doing my PhD. My research topic is new privacy-oriented digtial
+I’m Shankar, a graduate student in Computer Science from [Birmingham City University](https://www.bcu.ac.uk). I’m am currently doing my PhD. My research topic is new privacy-oriented digital
 identity approaches.
 
 
